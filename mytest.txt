@@ -1,0 +1,8 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE59-8C2E
+
+ Directory of C:\GitRepos
+
+04/04/2019  10:34 AM                 0 mytest.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  957,247,463,424 bytes free
